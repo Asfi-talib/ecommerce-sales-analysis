@@ -83,8 +83,10 @@ potential categories. Key finding: Ireland customers generate 47x more revenue
 per customer than UK despite having only 3 customers total.
 File: customer_analysis.sql
 
-🔲 Power BI Dashboard — coming soon
-
+Power BI Dashboard 
+Built an interactive dashboard showing £8.91M total revenue, 
+monthly trends, country performance and top customers.
+Files: ecommerce_dashboard.pbix, ecommerce_dashboard.pdf
 
 Dataset source: UCI E-Commerce Dataset from Kaggle
 Link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
