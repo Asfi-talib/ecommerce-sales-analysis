@@ -75,10 +75,15 @@ This was my first end-to-end data project and it was a good reminder that real d
 
 ## Next Steps
 
-I'm planning to extend this project with:
-- RFM Analysis (Recency, Frequency, Monetary) to segment customers
-- A proper Power BI dashboard on top of this data
-- SQL-based analysis in MySQL for customer behaviour patterns
+SQL-based Customer Behaviour Analysis 
+Built a full customer analysis in MySQL using 397,884 records imported via Python. 
+Wrote queries to find top customers, purchase frequency, revenue by country, 
+and performed RFM Analysis to segment customers into VIP, at-risk, and high 
+potential categories. Key finding: Ireland customers generate 47x more revenue 
+per customer than UK despite having only 3 customers total.
+File: customer_analysis.sql
+
+🔲 Power BI Dashboard — coming soon
 
 
 Dataset source: UCI E-Commerce Dataset from Kaggle
